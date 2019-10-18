@@ -1,0 +1,12 @@
+.red{
+    background-image: linear-gradient(to bottom,blue,red);
+}
+.white{
+    color: white;
+}
+.bluebg{
+    background-color: blue;
+}
+.redrow{
+    background-image: linear-gradient(to bottom,blue,red);
+}
