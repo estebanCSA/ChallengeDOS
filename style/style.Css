@@ -4,9 +4,16 @@
 .white{
     color: white;
 }
-.bluebg{
+.bluecyan{
+    background-image: linear-gradient(to bottom,blue,cyan);
+}
+.blue{
     background-color: blue;
 }
+
 .redrow{
     background-image: linear-gradient(to bottom,blue,red);
+}
+.green{
+    background-color: green;
 }
